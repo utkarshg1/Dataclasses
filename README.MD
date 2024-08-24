@@ -1,5 +1,3 @@
-Here’s an updated `README.md` without the source code, focusing on usage and key features:
-
 # Account Class
 
 The `Account` class represents a basic bank account with features for depositing, withdrawing, transferring funds, and viewing the account balance. The class includes validation and error handling to ensure correct operation.
